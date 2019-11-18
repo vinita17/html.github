@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>RESUME</title>
+</head>
+<style>
+
+p
+{
+border:5px solid black
+}
+</style>
+
+
+<p>
+
+
+<body>
+<center>
+<h1>
+<u>MY RESUME</u>
+</h1>
+</center> 
+
+
+<h3>VINITA</h3>
+<img src="vinita.JPG"width = 100 hspace = 120 align = right>
+<h5>Shahji Compound Police Line Road Bulandshahr</h5>
+<h5>vinita02000@gmail.com</h5>
+<h5>Contact no.:9582276484</h5><hr>
+
+<h2>
+<div style="background-color:gray;color:white;padding:03px;">
+<u>CAREER OBJECTIVE</u>
+</h2>
+Seeking a position to utilize my creativity, skills that I have learned and abilities in an organization that offers professional growth while being resourceful, innovative and flexible.
+
+
+
+
+
+
+<h2><div style="background-color:gray;color:white;padding:03px;">
+<u>ACADMIC QUALIFICATION</u>
+</h2> 
+<table border = 5 width = 1000>
+<tr>
+       <th>Qualification</th>
+       <th>Board/University</th>
+       <th>School/College</th>
+       <th>Year of passing</th>
+       <th>Marks</th>
+</tr>
+<tr>
+       <th>10th</th>
+       <th>CBSE</th>
+       <th>Kendriya Vidyalaya Bulandshahr</th>
+       <th>2016</th>
+       <th>91.2%</th>
+</tr>
+
+<tr>
+       <th>12th</th>
+       <th>CBSE</th>
+       <th>Kendriya Vidyalaya Bulandshahr</th>
+       <th>2018</th>
+       <th>71%</th>
+</tr>
+</table>
+<h2>
+<div style="background-color:gray;color:white;padding:03px;">
+<u>STRENGTH</u>
+</h2>
+
+<ul>
+<b>
+<h3>
+<li>Positive attitude</li>
+<li>Good Communication skill</li>
+<li>Good in Sports</li>
+
+</b>
+</h3>
+</ul>
+<h2><div style="background-color:gray;color:white;padding:03px;">
+<u>Personal Details</u>
+</h2>
+<ul>
+<b>
+<h3>
+<li>Name - Vinita
+<li>Married - No
+<li>Hobbies - </li>
+<ul>
+<li>Playing Badminton
+<li>listining Music
+</ul>
+<li>Nationality - Indian</li>
+<li>Passport - No Available</li>
+<li>Languages Known - </li>
+<ul>
+<li>Hindi</li>
+<li>English</li>
+<li>Punjabi</li>
+</ul>
+
+</body>
+</p>
+</html>
